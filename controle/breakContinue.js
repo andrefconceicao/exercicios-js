@@ -15,6 +15,7 @@ for (y in nums){
 }
 
 externo: // rótulo - Evitar
+                                                                                                                                                                                                                                        
 for (a in nums){
     for (b in nums){
         if(a == 2 & b == 3){
