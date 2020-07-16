@@ -5,6 +5,14 @@ for (const i in notas) {
     
 }
 
+// let soma = 0
+
+// for (const j in notas){
+//     soma += j
+// }
+
+// console.log(soma);
+
 const pessoa = {
     nome: 'Ana',
     sobrenome: 'Silva',

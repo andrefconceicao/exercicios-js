@@ -14,3 +14,11 @@ console.log('Escola ' + escola + "!")
 console.log(escola.replace(3, 'e'))
 
 console.log('Ana,Maria,Pedro'.split(','))
+
+/* --------------------------- */
+// console.log(escola.length);
+// let tamanho = escola.length
+// let stringFinal = ''
+
+// stringFinal = escola.charAt(tamanho-1) + ' ' + escola.charAt(tamanho-2)
+// console.log(stringFinal);
